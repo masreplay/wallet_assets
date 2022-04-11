@@ -1,0 +1,15 @@
+name: wallet_assets
+description: Assets for the app Wallet, a Flutter sample app based on the Material study Wallet.
+version: 1.0.0
+repository: https://github.com/material-components/material-components-flutter-codelabs-packages
+
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
